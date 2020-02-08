@@ -1,0 +1,33 @@
+================================
+= Introduction 
+================================
+
+Please use instructions to make this application working.
+
+1. Run Azure Storage Emulator
+2. Use Init command the Azure Storage Emulator
+3. Use Start command to make emulator accept new connections.
+
+================================
+= Integration Tests 
+================================
+
+1. You will need Specflow extension for running integration tests.
+2. Please use open your visual studio -> From tooltip menu -> Extensions -> Manage Extensions -> Specflow for Visual Studio 2019
+3. UploadFiles.feature > 
+
+		Scenario: Upload files pdf
+		Scenario: Upload files non-pdf
+
+		scenarios are working fine. I haven't completed others due to time.
+
+================================
+= Unit Tests 
+================================
+
+1. No time to complete any unit tests.
+
+
+Thanks,
+
+Ayberk C.

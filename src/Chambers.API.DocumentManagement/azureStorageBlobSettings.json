@@ -1,0 +1,6 @@
+{
+  "AzureStorageBlobSettings": {
+    "ConnectionString": "UseDevelopmentStorage=true",
+    "ContainerName": "PdfFiles"
+  }
+}
